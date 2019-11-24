@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://siamiz88.github.io"
+url: "https://HwangYe-eun.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: HyeongYeop Kang
+title: Hwang Ye-eun
 
 # Short description of your site
 description: des?
@@ -33,7 +33,7 @@ navbar-links:
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "https://ifh.cc/g/kU8Qa.jpg"
-
+<a href='https://ifh.cc/v-kU8Qa' target='_blank'><img src='https://ifh.cc/g/kU8Qa.jpg' border='0'>
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
@@ -58,7 +58,7 @@ author:
   name: Hwang Ye-eun
   email: "pohyenwer14@naver.com"
   github: HwangYe-eun
-  linkedin: 
+
 
 
 
@@ -67,19 +67,19 @@ footer-links-active:
   rss: true
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   github: true
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
 
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
